@@ -51,13 +51,13 @@ VALUES
 
 ## 以下の問に答えよ(20問)
 
-● cdsに以下のデータを挿入せよ
+1. cdsに以下のデータを挿入せよ
 
 ```
 Help,1,2800
 ```
  
 
-● tetetwete
+1. tetetwete
   
 
