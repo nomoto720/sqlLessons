@@ -53,10 +53,6 @@ VALUES
 
 1. cdsに以下のデータを挿入せよ
 
-  ```
-  Help,1,2800
-  ```
- 
 1. tetetwete
   
 
